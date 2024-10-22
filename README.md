@@ -1,2 +1,2 @@
 # Pneumonia_Detection
-This Contaisn the Ipymb file for detecting Pneumonia 
+This Contains the Ipymb file for detecting Pneumonia 
